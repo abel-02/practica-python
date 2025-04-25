@@ -9,6 +9,8 @@ __pycache__/
 .venv/
 env/
 ENV/
+fastapi-env/
+
 
 # IDEs
 .idea/
